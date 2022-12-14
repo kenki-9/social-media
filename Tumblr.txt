@@ -1,0 +1,6 @@
+assets.tumblr.com
+static.tumblr.com
+ls.srvcs.tumblr.com
+api.tumblr.com
+api-http2.tumblr.com
+ www.tumblr.com

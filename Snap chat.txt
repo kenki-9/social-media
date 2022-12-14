@@ -1,0 +1,16 @@
+api.mapbox.com
+events.mapbox.com
+app-analytics-v2.snapchat.com
+aws-proxy-gcp.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+us-central1-gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
+gcp.api.snapchat.com
+aws.duplex.snapchat.com
+gtq6.sct.sc-prod.net
+cf-st.sc-cdn.net
+aws.api.snapchat.com
+bolt-gcdn.sc-cdn.net
+us-east1-aws-acc.api.snapchat.com
+app.snapchat.com
+us-east4-gcp-ineg.api.snapchat.com
