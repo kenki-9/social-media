@@ -54,3 +54,4 @@ chat-gateway-prod.chat.snapchat.com
 games.snapchat.com
 o14.mail.m.snapchat.com
 places.snapchat.com
+aws.api.snapchat.comtopic-sticker-vending.snapchat.com
