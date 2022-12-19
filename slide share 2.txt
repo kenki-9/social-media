@@ -1,0 +1,13 @@
+image.slidesharecdn.com
+cdn.slidesharecdn.com
+www.slideshare.net
+slideshare.net
+engineering.slideshare.net
+www.engineering.slideshare.net
+o3.nl.slideshare.net
+o4.nl.slideshare.net
+webapp.production.slideshare.net
+o1.hps.slideshare.net
+o2.hps.slideshare.net
+o1.lps.slideshare.net
+o2.lps.slideshare.net
